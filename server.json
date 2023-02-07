@@ -1,20 +1,84 @@
 {
-    "transactions":[
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category":"venda",
-            "price":14000,
-            "createdAt": "2023-02-06T18:34:02.852Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburger",
-            "type": "outcome",
-            "category":"Alimentação",
-            "price": 30,
-            "createdAt": "2023-02-06T14:30:02.852Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2023-02-06T18:34:02.852Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 30,
+      "createdAt": "2023-02-06T14:30:02.852Z"
+    },
+    {
+      "description": "Tênis",
+      "price": 350,
+      "category": "vestuario",
+      "type": "outcome",
+      "createdAt": "2023-02-07T18:47:05.195Z",
+      "id": 3
+    },
+    {
+      "description": "Celular",
+      "price": 1800,
+      "category": "Eletronicos",
+      "type": "outcome",
+      "createdAt": "2023-02-07T19:02:43.882Z",
+      "id": 4
+    },
+    {
+      "description": "Venda APP",
+      "price": 15000,
+      "category": "Serviço",
+      "type": "income",
+      "createdAt": "2023-02-07T19:04:37.672Z",
+      "id": 5
+    },
+    {
+      "description": "ccc",
+      "price": 12,
+      "category": "t3",
+      "type": "income",
+      "createdAt": "2023-02-07T19:08:53.658Z",
+      "id": 6
+    },
+    {
+      "description": "teste",
+      "price": 576,
+      "category": "hgfds",
+      "type": "outcome",
+      "createdAt": "2023-02-07T19:14:01.198Z",
+      "id": 7
+    },
+    {
+      "description": "teste",
+      "price": 345,
+      "category": "er",
+      "type": "outcome",
+      "createdAt": "2023-02-07T19:15:23.329Z",
+      "id": 8
+    },
+    {
+      "description": "tfgh",
+      "price": 44,
+      "category": "tyh",
+      "type": "income",
+      "createdAt": "2023-02-07T19:19:11.574Z",
+      "id": 9
+    },
+    {
+      "description": "rty",
+      "price": 45,
+      "category": "5678",
+      "type": "outcome",
+      "createdAt": "2023-02-07T19:19:42.986Z",
+      "id": 10
+    }
+  ]
 }
